@@ -19,7 +19,7 @@
         android:layout_marginBottom="16dp"/>
 
     <EditText
-        android:id="@+id/editTextUsername"
+        android:id="@+id/correo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Usuario"
@@ -27,7 +27,7 @@
         android:layout_marginBottom="8dp"/>
 
     <EditText
-        android:id="@+id/editTextPassword"
+        android:id="@+id/contrasena"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Contraseña"
@@ -35,7 +35,7 @@
         android:layout_marginBottom="16dp"/>
 
     <Button
-        android:id="@+id/buttonLogin"
+        android:id="@+id/btn_ingresar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Iniciar Sesión"/>
